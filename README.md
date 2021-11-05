@@ -1,7 +1,7 @@
 ### Jürgen Ruegenberg Buezo 👋
 -----------------------------
 I am a full-stack developer in progress.
-  * Currently loves :python: python, :java: java, :angular: angular, loopback and :mongodb: mongodb
+  * Currently loves :python: python, :java: java, :angular: angular, loopback, ![alt text](https://camo.githubusercontent.com/5e45fdedae90e97eb256795f2e776e9b010723addaadf27b75554ef6c183f5c8/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f616e64726f69642e737667) android :mongodb: mongodb
   * Studying at Universidad Privada Boliviana
 
 <!--
