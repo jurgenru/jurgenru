@@ -1,7 +1,7 @@
 ### Jürgen Ruegenberg Buezo 👋
 -----------------------------
 I am a full-stack developer in progress.
-  _ Currently loves :python: python, :java: java, :angular: angular, loopback and :mongodb: mongodb
+  . Currently loves :python: python, :java: java, :angular: angular, loopback and :mongodb: mongodb
   - Studying at Universidad Privada Boliviana
 
 <!--
