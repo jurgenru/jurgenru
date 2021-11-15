@@ -1,7 +1,7 @@
 ### Jürgen Ruegenberg Buezo 👋
 -----------------------------
 I am a full-stack developer in progress.
-  * Currently loves python, java, angular, loopback, android, mongodb
+  * Currently loves python, java, angular, loopback, <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="auto" height="20" /> android, mongodb
   * Studying at Universidad Privada Boliviana
 <!--
 **jurgenru/jurgenru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
