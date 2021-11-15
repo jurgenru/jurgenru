@@ -1,7 +1,7 @@
 ### Jürgen Ruegenberg Buezo 👋
 -----------------------------
 I am a full-stack developer in progress.
-  * Currently loves python, java, angular, loopback, <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="auto" height="20" /> android, mongodb
+  * Currently loves <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="auto" height="20" /> python, <img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" width="auto" height="20" /> java, <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="auto" height="20" /> angular, <img src="https://seeklogo.com/images/L/loopback-logo-517982E646-seeklogo.com.png" width="auto" height="20" /> loopback, <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="auto" height="20" /> android, <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" width="auto" height="20" /> mongodb, <img src="https://seeklogo.com/images/P/postgresql-logo-6DBC096ED4-seeklogo.com.png" width="auto" height="20" /> postgresql, <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="auto" height="20" /> mysql
   * Studying at Universidad Privada Boliviana
 <!--
 **jurgenru/jurgenru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-FALTA AÑADIR LOS LOGOS
 -->
